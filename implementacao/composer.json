@@ -1,0 +1,10 @@
+{
+    "name": "mdm/implementacao",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Banco\\" : "src\\"
+        }
+    }
+}
